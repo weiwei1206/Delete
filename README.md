@@ -1,4 +1,3 @@
-# HKU-DASC7606-A2
 
 # HKU-DASC7606-A2
 HKU DASC-7606 Assignment 2 NLP: In-context Learning with Large Language Models
